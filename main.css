@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-color: #FFD700;
+}
+h1{
+font-style: italic;
+font-size: 150px;
+margin-bottom: 0px;
+}
+p{
+
+    font-size: 25px;
+    font-style: oblique;
+}
